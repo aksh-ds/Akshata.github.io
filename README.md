@@ -1,4 +1,4 @@
-# Hello, welcome to my profile!
+# Hello, Welcome to my profile!
 
 ## About Me
 - MSc in Big Data Science (Distinction)
