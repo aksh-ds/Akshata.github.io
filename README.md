@@ -2,13 +2,14 @@
 
 ## About Me
 - MSc in Big Data Science (Distinction)
-- Former Consultant at Allstate | ETL & Automation Specialist
-- Currently transitioning into Data Science, Machine Learning, and AI
+- Former ETL developer and Production Support at Allstate 
 
 ## Skills
-**Languages:** Python, SQL, Shell Scripting  
+**Programmung and Querying:** Python, SQL, Shell Scripting  
 **Data Tools:** Pandas, NumPy, Scikit-learn, Prophet, Matplotlib, Plotly  
 **Other Tools:** Power BI, Ab Initio, Oracle DB, Git, Streamlit, Agile
+**Cloud & Automation:** Working knowledge of AWS (S3, Lambda, Glue, Athena), Git, GitHub Actions (CI/CD)
+**Operating Systems & Tools:** Linux, Windows, JIRA, IBM Tivoli Workload Scheduler
 
 ## Contact
 Feel free to reach out: **akshatananag@gmail.com**
